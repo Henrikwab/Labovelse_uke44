@@ -207,6 +207,7 @@ nav ul span {
   position: relative;
   display: inline-block;
   color: #fff;
+  background-color: #545454;
 }
 #news .scroll-container article a i {
   position: absolute;
