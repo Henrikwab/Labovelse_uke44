@@ -208,8 +208,7 @@ nav{
             a{
                 position: relative;
                 display: inline-block;
-                color: #fff;
-                background-color: #545454;
+                color: #c70000;
                 i{
                     position: absolute;
                     top: 10px;
@@ -228,7 +227,7 @@ nav{
                 margin: 0.5rem 0;
                 li{
                     &:first-child {
-                        color: #848484;
+                        color: #000000;
                         text-transform: uppercase;
                     }
                 }
